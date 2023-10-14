@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.cdf5d910.css",
-    "main.js": "/react-gh-pages/static/js/main.844e1ecc.js",
-    "static/js/787.1ed0c42c.chunk.js": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js",
-    "static/media/desktop.jpg": "/react-gh-pages/static/media/desktop.99cfcbc1cd171c147124.jpg",
-    "static/media/instagram.png": "/react-gh-pages/static/media/instagram.17910c9dd6efea799318.png",
-    "static/media/linkedin.png": "/react-gh-pages/static/media/linkedin.d6f455d1ef2013df1c41.png",
-    "static/media/github.png": "/react-gh-pages/static/media/github.83bca5ce4a8b0ba02cbe.png",
-    "static/media/greeting.png": "/react-gh-pages/static/media/greeting.389739294812423db764.png",
-    "static/media/me.png": "/react-gh-pages/static/media/me.589bda74c469a6e35592.png",
-    "static/media/mysql.png": "/react-gh-pages/static/media/mysql.87d2ad352576b15f40b0.png",
-    "static/media/airflow.jpg": "/react-gh-pages/static/media/airflow.b062244f1502bb9ebba8.jpg",
-    "static/media/logo.webp": "/react-gh-pages/static/media/logo.fea3e143c5542a070893.webp",
-    "static/media/java.png": "/react-gh-pages/static/media/java.39770df150b98ed9e2ed.png",
-    "static/media/resume.docx": "/react-gh-pages/static/media/resume.78546767c41dbe182b1e.docx",
-    "static/media/preloader.svg": "/react-gh-pages/static/media/preloader.4410c5baaa673cc131da.svg",
-    "static/media/close.svg": "/react-gh-pages/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
-    "static/media/menu.svg": "/react-gh-pages/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.cdf5d910.css.map": "/react-gh-pages/static/css/main.cdf5d910.css.map",
-    "main.844e1ecc.js.map": "/react-gh-pages/static/js/main.844e1ecc.js.map",
-    "787.1ed0c42c.chunk.js.map": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.8be79fbb.css",
+    "main.js": "/portfolio/static/js/main.29eae155.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/desktop.jpg": "/portfolio/static/media/desktop.99cfcbc1cd171c147124.jpg",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.17910c9dd6efea799318.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.d6f455d1ef2013df1c41.png",
+    "static/media/github.png": "/portfolio/static/media/github.83bca5ce4a8b0ba02cbe.png",
+    "static/media/greeting.png": "/portfolio/static/media/greeting.389739294812423db764.png",
+    "static/media/me.png": "/portfolio/static/media/me.589bda74c469a6e35592.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.87d2ad352576b15f40b0.png",
+    "static/media/airflow.jpg": "/portfolio/static/media/airflow.b062244f1502bb9ebba8.jpg",
+    "static/media/logo.webp": "/portfolio/static/media/logo.fea3e143c5542a070893.webp",
+    "static/media/java.png": "/portfolio/static/media/java.39770df150b98ed9e2ed.png",
+    "static/media/resume.docx": "/portfolio/static/media/resume.78546767c41dbe182b1e.docx",
+    "static/media/preloader.svg": "/portfolio/static/media/preloader.4410c5baaa673cc131da.svg",
+    "static/media/close.svg": "/portfolio/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
+    "static/media/menu.svg": "/portfolio/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
+    "index.html": "/portfolio/index.html",
+    "main.8be79fbb.css.map": "/portfolio/static/css/main.8be79fbb.css.map",
+    "main.29eae155.js.map": "/portfolio/static/js/main.29eae155.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdf5d910.css",
-    "static/js/main.844e1ecc.js"
+    "static/css/main.8be79fbb.css",
+    "static/js/main.29eae155.js"
   ]
 }
