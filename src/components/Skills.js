@@ -12,7 +12,6 @@ import python from '../assets/tech/python.jpg'
 import reactjs from '../assets/tech/reactjs.png'
 import tailwind from '../assets/tech/tailwind.png'
 import typescript from '../assets/tech/typescript.png'
-import Tilt from "react-parallax-tilt";
 
 
 const Skills =()=>{
