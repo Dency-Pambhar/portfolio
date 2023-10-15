@@ -12,17 +12,17 @@ const Footer =()=>{
     <p className="mt-4 text-lg font-bold text-violet-700">FIND ME ON </p>
     <div className='my-8 flex flex-row'>
         <a  href="https://github.com/Dency-Pambhar">
-            <img className='w-16 object-cover mx-2' src={github} alt="github"/>
+            <img className='lg:w-16 w-12 object-cover mx-2' src={github} alt="github"/>
         </a>
         <a href="https://www.linkedin.com/in/dency-pambhar-5869a8190/">
-            <img className='w-16 object-fill mx-2' src={linkedin} alt="linkedin"/>
+            <img className='lg:w-16 w-12 object-fill mx-2' src={linkedin} alt="linkedin"/>
         </a>
         <a href="https://www.instagram.com/dency_pambhar/" >
-            <img className='w-16 object-cover mx-2' src={insta} alt="instagram"/>
+            <img className='lg:w-16 w-12 object-cover mx-2' src={insta} alt="instagram"/>
         </a>
     </div>
-
-    <div className='pb-2 text-white'>Made with <span className='animate-pulse'>🧠</span> and <span className='animate-pulse'>🧡</span> by Dency</div>
+    <div className='green-pink-gradient h-[1px] w-full'></div>
+    <div className='my-2 text-white'>Made with <span className='animate-pulse'>🧠</span> and <span className='animate-pulse'>🧡</span> by Dency</div>
 </div>
 </div>
     )

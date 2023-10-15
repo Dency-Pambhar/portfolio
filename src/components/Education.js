@@ -19,7 +19,7 @@ const Education =()=>{
                 return(
                     <div className='green-pink-gradient sm:w-[90%] sm:mx-[5%] mx-4 p-[1px] my-4 rounded-xl flex sm:flex-row flex-col'>
                         <div className='bg-black rounded-xl w-full rounded-xl  flex sm:flex-row items-center flex-col'>
-                        <div className=" flex sm:w-[15%] w-[90%] m-4 rounded-full bg-white">
+                        <div className=" flex sm:w-[15%] w-[50%] m-4 rounded-full bg-white">
                             <img src={item.logo} alt="education" className='object-contain rounded-full p-4' />
                         </div>
                         <div className='text-secondary sm:h-[90%] sm:w-[80%] sm:ml-[2%] sm:mb-0 mb-4 w-[90%]'>

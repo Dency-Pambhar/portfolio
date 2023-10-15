@@ -12,6 +12,7 @@ import python from '../assets/tech/python.jpg'
 import reactjs from '../assets/tech/reactjs.png'
 import tailwind from '../assets/tech/tailwind.png'
 import typescript from '../assets/tech/typescript.png'
+import Tilt from "react-parallax-tilt";
 
 
 const Skills =()=>{
@@ -78,11 +79,12 @@ const Skills =()=>{
             <div className='flex flex-row flex-wrap justify-between sm:justify-start mx-[5%] w-[90%]'>
                 {technologies.map((item) =>{
                     return(
-                        <div className='green-pink-gradient sm:w-[10%] w-[20%] p-[2px] mr-[2%] my-[1%] rounded-xl'>
-                            <div className='bg-black rounded-xl w-full rounded-xl  h-[100%] flex flex-row justify-between'>
-                                <div className=" flex rounded-full">
-                                    <img src={item.icon} alt={item.name} className='object-contain h-[100%] p-2' />
-                                </div>
+                      
+                        <div className='green-pink-gradient sm:w-[6.5%] w-[20%] p-[1px] mr-[3%] my-[1%] rounded-xl'>
+                            <div className='bg-black rounded-xl w-full  h-[100%] flex flex-row justify-between'>
+                                <div className=" flex rounded-xl hover:animate-spin">
+                                      <img src={item.icon} alt={item.name} className='object-contain rounded-full h-[100%] p-2' />
+                                 </div>                           
                             </div>            
                         </div>
                     )})}
