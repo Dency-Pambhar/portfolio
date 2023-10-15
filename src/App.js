@@ -8,6 +8,7 @@ import About from './components/About';
 import Experience from './components/Experience';
 import Education from './components/Education';
 import Skills from './components/Skills';
+import Projects from './components/Project';
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -28,6 +29,7 @@ function App() {
       <Experience/>
       <Education/>
       <Skills/>
+      <Projects/>
       <Footer/>
     </div>
   );
