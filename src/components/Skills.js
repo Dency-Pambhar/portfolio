@@ -82,7 +82,7 @@ const Skills =()=>{
                         <div className='green-pink-gradient sm:w-[6.5%] w-[20%] p-[1px] mr-[3%] my-[1%] rounded-xl'>
                             <div className='bg-black rounded-xl w-full  h-[100%] flex flex-row justify-between'>
                                 <div className=" flex rounded-xl hover:animate-spin">
-                                      <img src={item.icon} alt={item.name} className='object-contain rounded-full h-[100%] p-2' />
+                                      <img src={item.icon} alt={item.name} className='object-contain rounded-xl h-[100%] p-2' />
                                  </div>                           
                             </div>            
                         </div>
