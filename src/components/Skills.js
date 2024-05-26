@@ -70,7 +70,7 @@ const Skills =()=>{
         },
       ];    
     return(
-        <div id="skills" className='flex flex-col w-full h-fit my-16'>
+        <div id="skills" className='flex flex-col w-full h-fit my-24'>
             <div className='w-[90%] mx-[5%]'>
                 <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider">Technologies,that i know and want to learn more </p>
                 <h2 className="text-white font-bold md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]">Skills</h2>

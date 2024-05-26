@@ -8,7 +8,7 @@ import Tilt from "react-parallax-tilt";
 
 const Hero = () => {
   return (
-<section className='relative w-full h-fit mx-auto'>
+<section className='relative w-full h-fit overflow-x-hidden mx-auto'>
   <Particle />
   <div className=" sm:w-[90%] w-[100%] z-10 absolute inset-0 sm:top-[95px] top-[60px] max-w-7xl mx-auto flex sm:flex-row flex-col sm:justify-between gap-5">
   <div className="sm:hidden flex w-[100%] flex flex-col items-center mt-[5%] ">
@@ -37,13 +37,13 @@ const Hero = () => {
       </div>
     </div>
     
-    <div className="sm:flex hidden w-[40%] h-[80%] flex items-start mt-[2%] ">
+    <div className="sm:flex hidden w-[40%] h-[80%] flex items-center ">
       <Tilt>
           <img
             src={homeLogo}
             alt="home pic"
-            className="img-fluid"
-            style={{ borderRadius:"9999px", boxShadow:"0 0 300px rgba(0, 0, 0, 0.5)", marginRight:"10%"}}
+            className="img-fluid m-auto w-[60%]"
+            style={{ borderRadius:"9999px", boxShadow:"0 0 300px rgba(0, 0, 0, 0.5)"}}
           />
       </Tilt>
     </div>
